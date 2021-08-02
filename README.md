@@ -1,4 +1,4 @@
------------------ #Intro-to-ML --------------------
+#Intro-to-ML
 
 ## Assignment 1 Task Details
 
