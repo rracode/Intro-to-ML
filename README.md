@@ -27,4 +27,4 @@
   Random Forest
   LightGBM(Tree Based Model)
 
-  By creating the notebook, we will see how label encoding or one hot encoding is better for the model and which out of the 8 algorithms which is the best. Plots to understand the results on bigger datasets.
+  By creating the notebook, we will see how label encoding or one hot encoding is better for the model and which out of the 8 algorithms which is the best. Plotted graphs to understand the results on bigger datasets.
