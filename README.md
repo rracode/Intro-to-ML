@@ -1,6 +1,6 @@
------------------ Intro-to-ML --------------------
+----------------- #Intro-to-ML --------------------
 
-# Assignment 1 Task Details
+## Assignment 1 Task Details
 
   Given the UP crime dataset was created for a project at IIT Kanpur.
 
@@ -9,7 +9,7 @@
   Some Graphs :- Reason wise , Number of people wise,city data.
   Deducing relations between reasons of the crime using given data.
 
-# Assignment 2 Task Details
+## Assignment 2 Task Details
 
   Predicting the Taxi-Out Delay.
   Given the dataset predict the runway time of the flight
