@@ -2,7 +2,9 @@
 
 # Assignment 1 Task Details
 
-  This task is to create a simple visualization notebook and find relations between reasons.
+  Given the UP crime dataset was created for a project at IIT Kanpur.
+
+  This task is to create a simple visualization notebook and find relations between reasons for the crime.
   Preprocessing Dataset for null and string to convert all to a standard representation.
   Some Graphs :- Reason wise , Number of people wise,city data.
   Deducing relations between reasons of the crime using given data.
