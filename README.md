@@ -1,4 +1,4 @@
-INTRODUCTION TO MACHINE LEARNING
+# INTRODUCTION TO MACHINE LEARNING
 
 Introduction to Machine Learning is a summer project offered by the Programming Club of IIT Kanpur.
 
